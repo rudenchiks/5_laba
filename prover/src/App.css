@@ -1,0 +1,9 @@
+.paragraph {
+  margin-bottom: 1em;
+  cursor: pointer;
+}
+
+.ellipsis {
+  margin-left: 4px;
+  cursor: pointer;
+}
